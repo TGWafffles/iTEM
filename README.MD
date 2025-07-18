@@ -1,7 +1,7 @@
 
 # iTEM
 
-[![Build Status](https://ci.thom.club/job/TheExoticsMod/job/master/badge/icon)](https://ci.thom.club/job/TheExoticsMod/job/master/) [![Discord](https://img.shields.io/discord/932106421338779709?label=discord&logo=Discord&logoColor=FFFFFF%22)](https://discord.gg/bUE3r3Jckc) [![Contributors](https://img.shields.io/github/contributors/TGWaffles/TheExoticsMod?&logo=GitHub)](https://github.com/TGWaffles/TheExoticsMod/graphs/contributors) [![Jenkins Coverage](https://img.shields.io/jenkins/coverage/jacoco?jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/jacoco/) [![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/lastBuild/testReport/)
+[![Build Status](https://ci.thom.club/job/TheExoticsMod/job/master/badge/icon)](https://ci.thom.club/job/TheExoticsMod/job/master/) [![Discord](https://img.shields.io/discord/932106421338779709?label=discord&logo=Discord&logoColor=FFFFFF%22)](http://0.0.0.0/) [![Contributors](https://img.shields.io/github/contributors/TGWaffles/TheExoticsMod?&logo=GitHub)](https://github.com/TGWaffles/TheExoticsMod/graphs/contributors) [![Jenkins Coverage](https://img.shields.io/jenkins/coverage/jacoco?jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/jacoco/) [![Jenkins tests](https://img.shields.io/jenkins/tests?compact_message&jobUrl=https%3A%2F%2Fci.thom.club%2Fjob%2FTheExoticsMod%2Fjob%2Fmaster)](https://ci.thom.club/job/TheExoticsMod/job/master/lastBuild/testReport/)
 
 ---
 
@@ -22,7 +22,7 @@ We currently track:
 
 Unfortunately, in February 2023, the Hypixel Staff team announced in [a forum post](https://hypixel.net/threads/public-api-changes-february-2023.5266129/) that the Hypixel API had grown too large and had become too costly to continue operating as it was. This led to the removal of player-based API keys, which effectively ended iTEM as we knew it. iTEM now continues to operate as a quality-of-life mod with several useful features for collectors, such as Seymour comparison, chest and item frame searching, item exports, and more. TGWaffles later created [a video recapping the history of iTEM](https://youtu.be/_DDT3SC29ug)
 
-[Join the Discord!](https://discord.gg/bUE3r3Jckc)
+[Join the Discord!](http://0.0.0.0/)
 
 ---
 ## How to build?
